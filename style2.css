@@ -1,0 +1,25 @@
+.btn-style{
+    margin-bottom: 50px;
+    background-color: white;
+    color: black;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+    color: white;
+}
+
+.box-center{
+    align-self: center;
+}
+
+.box-end{
+    align-self: flex-end;
+}
